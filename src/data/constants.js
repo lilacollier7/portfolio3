@@ -9,7 +9,7 @@ export const Bio = {
   ],
   description:
     "As a 30 year old real estate agent and investor who started working in real estate shortly after turning 18, with over $120,000,000 in residential real estate sales since 2008, I've created this channel to share my successes, failures, and experiences in the real estate industry and to support others who are thinking of getting into the business. Oh, and I'm also obsessed with cars. A lot. So expect to see some cars uploaded to my channel. A lot. And Subscribe. Because all the cool kids are doing it. Feel free to follow me on Snapchat / Instagram: GPStephan",
-  github: "https://github.com/rishavchanda",
+  github: "https://www.youtube.com/@GrahamStephan",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",

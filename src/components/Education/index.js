@@ -81,9 +81,9 @@ const index = () => {
     return (
         <Container id="education">
             <Wrapper>
-                <Title>Education</Title>
+                <Title>Portfolio</Title>
                 <Desc>
-                    My education has been a journey of self-discovery and growth. My educational details are as follows.
+                PROMOTIONAL OFFER: Get Up To 12 FREE STOCKS when you sign up and make a deposit using my paid affiliate link for WeBull: https://a.webull.com/i/GrahamStephan
                 </Desc>
                 <TimelineSection>
                     <Timeline>

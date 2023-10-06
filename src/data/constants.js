@@ -29,7 +29,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://firebasestorage.googleapis.com/v0/b/fileupload-74efb.appspot.com/o/check-mark-2.png?alt=media&token=503b3696-1b13-4711-bb3d-bb635708cd83&_gl=1*1s41gsx*_ga*NzE2MTQ4ODUuMTY5NjU4NTkxMQ..*_ga_CW55HF8NVT*MTY5NjU4NTkxMS4xLjEuMTY5NjU4NjQ5Mi4zNy4wLjA.",
     school: "Stock Trading",
     date: "",
     grade: "100%",
@@ -38,7 +38,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/fileupload-74efb.appspot.com/o/checkmark.png?alt=media&token=edeaba8b-b5f3-4af2-b9cf-31960e582c46&_gl=1*1lebb22*_ga*NzE2MTQ4ODUuMTY5NjU4NTkxMQ..*_ga_CW55HF8NVT*MTY5NjU4NTkxMS4xLjEuMTY5NjU4NjUyNy4yLjAuMA..",
     school: "Inflation, hyperinflation - Silver stocks to buyock Trading",
     date: "",
     grade: "100%",
@@ -47,7 +47,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/fileupload-74efb.appspot.com/o/check-mark.png?alt=media&token=ea60f442-b3f4-4b44-b71b-30ea3db7c3a5&_gl=1*1dibh35*_ga*NzE2MTQ4ODUuMTY5NjU4NTkxMQ..*_ga_CW55HF8NVT*MTY5NjU4NTkxMS4xLjEuMTY5NjU4NjU2OS4yMC4wLjA.",
     school: "Investing gold coins - Uranium, uranium stocks, uranium stocks to buy",
     date: "",
     grade: "100%",

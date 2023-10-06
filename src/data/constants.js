@@ -91,11 +91,11 @@ export const projects = [
     description:
       "How to invest in real estate: Here’s exactly how you can buy your first rental property, step by step, and the process involved. Enjoy! Add me on Snapchat/Instagram: GPStephan",
     image:
-      "https://raw.githubusercontent.com/lilacollier7/portfolio3/main/src/images/mq3.webp",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+      "https://raw.githubusercontent.com/lilacollier7/portfolio3/main/src/images/mqp.webp",
+    tags: ["property", "Lending", "Rental", "Housing"],
+    category: "Real Estate",
+    github: "https://www.youtube.com/@GrahamStephan/videos",
+    webapp: "https://www.youtube.com/watch?v=bJx7_1rWC6U",
   },
   
 ];

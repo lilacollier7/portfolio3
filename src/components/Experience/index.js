@@ -80,7 +80,7 @@ const index = () => {
             <Wrapper>
                 <Title>Experience</Title>
                 <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
+                Here's my story of skipping college, pursing real estate sales at 18 years old, and becoming a millionaire by the time I turned 26. While this video mainly focuses on my successes, it wasn't easy and it came with many sacrifices along the way - but thankfully it all worked out in the end. Enjoy!
                 </Desc>
                 <TimelineSection>
                     <Timeline>

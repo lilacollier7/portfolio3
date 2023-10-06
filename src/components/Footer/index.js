@@ -91,10 +91,10 @@ function Footer() {
         <Logo>Graham Stephen</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href="#skills"></NavLink>
+          <NavLink href="#experience">Portfolio</NavLink>
+          <NavLink href="#projects">Videos</NavLink>
+          <NavLink href="#education"></NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
